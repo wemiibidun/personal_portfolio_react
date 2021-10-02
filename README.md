@@ -1,3 +1,4 @@
+![GitLab React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/personal_portfolio_react)
 
 # Personal Portfolio (React)
