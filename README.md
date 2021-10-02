@@ -30,7 +30,7 @@ The GUI of this project allows users to:
 
 ## Link to Published Portfolio
 
-[Link to Personal Page](https://personal-portfolio-react-e9ojg853j-wemiibidun.vercel.app/)
+[Link to my Portfolio Page](https://personal-portfolio-react-e9ojg853j-wemiibidun.vercel.app/)
 
 ## Status
 Project is: _Complete_
