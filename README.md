@@ -5,10 +5,12 @@ Created this personal portfolio website with React and  NextJS(_Nextjs is JavaSc
 
 ## Table of contents
 * [Introduction](#introduction)
+* [Screenshot](#screenshot)
 * [Technologies](#technologies-language-library-and-framework)
 * [Features](#features)
 * [Link to Published Portfolio](#link-to-published-portfolio)
 * [Status](#status)
+* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 
@@ -34,6 +36,9 @@ The GUI of this project allows users to:
 
 ## Status
 Project is: _Complete_
+
+## Inspiration
+This project was created with the support of [JavaScript Mastery's Tutorial](https://www.youtube.com/watch?v=OPaLnMw2i_0&ab_channel=JavaScriptMastery)
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
