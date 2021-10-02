@@ -18,7 +18,7 @@ Created this personal portfolio website with React and  NextJS(_Nextjs is JavaSc
 The aim of this project was to showcase my understanding of HTML, CSS and Bootstrap and also showcase my work experience and skills to employers
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/random_name_generator/blob/main/random_app_image.png)
+![Sample image](https://github.com/wemiibidun/personal_portfolio_react/blob/main/portfolio_screenshot.png)
 
 ## Technologies (Language, Library and Framework)
 * React
