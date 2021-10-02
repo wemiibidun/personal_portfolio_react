@@ -1,5 +1,7 @@
 ![GitLab React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/personal_portfolio_react)
+![GitLab Javascript](https://badgen.net/badge/:subject/:status/:color?icon=github)
+/github/release/babel/babel
 
 # Personal Portfolio (React)
 Created this personal portfolio website with React and  NextJS(_Nextjs is JavaScript framework that helps to build web applications using Reactjs. It offers a ton of features and tools that make building a complete app simple and easy). After creating the website, I deployed my portfolio on Vercel_)
