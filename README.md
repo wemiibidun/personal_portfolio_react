@@ -3,7 +3,7 @@
 ![GitLab Code Status](https://img.shields.io/website-up-down-green-red/http/personal-portfolio-react-e9ojg853j-wemiibidun.vercel.app)
 
 
-# Personal Portfolio ![GitLab React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+# Personal Portfolio 
 Created this personal portfolio website with React and  NextJS(_Nextjs is JavaScript framework that helps to build web applications using Reactjs. It offers a ton of features and tools that make building a complete app simple and easy). After creating the website, I deployed my portfolio on Vercel_)
 
 ## Table of contents
@@ -24,6 +24,8 @@ The aim of this project was to showcase my understanding of HTML, CSS and Bootst
 ![Sample image](https://github.com/wemiibidun/personal_portfolio_react/blob/main/portfolio_screenshot.png)
 
 ## Technologies (Language, Library and Framework)
+![GitLab React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GitLab Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
 * React
 * NextJS
 * Vercel
