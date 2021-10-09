@@ -1,7 +1,6 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/personal_portfolio_react)
 ![GitLab Code Status](https://flat.badgen.net/github/status/micromatch/micromatch)
-![GitLab Code Status](https://img.shields.io/website-up-down-green-red/http/monip.org.svg) [website:](https://personal-portfolio-react-e9ojg853j-wemiibidun.vercel.app/)
-
+![GitLab Code Status](https://img.shields.io/website-up-down-green-red/http/personal-portfolio-react-e9ojg853j-wemiibidun.vercel.app)
 
 
 # Personal Portfolio ![GitLab React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
