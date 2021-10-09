@@ -26,10 +26,12 @@ The aim of this project was to showcase my understanding of HTML, CSS and Bootst
 ## Technologies (Language, Library and Framework)
 ![GitLab React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GitLab Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
+![GitLab NextJS](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextjs&logoColor=61DAFB)
 * React
+* Javascript
 * NextJS
 * Vercel
-* Javascript
+
 
 ## Features
 The GUI of this project allows users to:
