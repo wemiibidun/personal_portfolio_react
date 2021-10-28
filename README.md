@@ -1,5 +1,4 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/personal_portfolio_react)
-![GitLab Code Status](https://flat.badgen.net/github/status/micromatch/micromatch)
 ![GitLab Code Status](https://img.shields.io/website-up-down-green-red/http/personal-portfolio-react-e9ojg853j-wemiibidun.vercel.app)
 
 
